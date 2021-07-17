@@ -1,5 +1,5 @@
-# expectativa-regra-negocio
-## Aprender algo novo.
+# aula-regra-negocio
+## Expectativa inicial para aula: Aprender algo novo.
 
 ## Tela Transferência 1:
 - banco
