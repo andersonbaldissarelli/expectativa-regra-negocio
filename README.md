@@ -15,7 +15,7 @@
 - ...titularidade
 - 
 - Transferência¬
-- ...FAVORECIDO
+- ...FAVORECIDO favorecido
 - ...valor
 - ...data
 - ...reconrrência
